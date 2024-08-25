@@ -32,6 +32,11 @@ Vrinda Store, a rapidly growing online shopping platform, seeks to strategically
 - **Actions Taken:**
   - Implemented Pivot Slicers to enable dynamic filtering and slicing of data in the dashboard, allowing for real-time analysis of different scenarios.
 
+## Dashboard Overview
+Below is an overview of the dynamic dashboard created to visualize the key insights from Vrinda Store's sales data:
+
+![Vrinda Store Annual Sales 2022 Dashboard](./image.png)
+
 ## Key Insights
 - **Gender Analysis:** Women constitute the majority of customers, accounting for approximately 65% of the total sales.
 - **Geographical Sales Distribution:** 
@@ -39,7 +44,7 @@ Vrinda Store, a rapidly growing online shopping platform, seeks to strategically
 - **Age Group Analysis:**
   - The adult age group between 30-49 years is the most significant contributor, making up around 50% of the total sales.
 - **Sales Channel Performance:**
-- Amazon, Flipkart, and Myntra are the leading sales channels, contributing the maximum sales.
+  - Amazon, Flipkart, and Myntra are the leading sales channels, contributing the maximum sales.
 
 ## Recommendations
 Based on the insights obtained from the analysis, the following recommendations are made to Vrinda Store:
@@ -54,4 +59,5 @@ Based on the insights obtained from the analysis, the following recommendations 
    
 4. **Enhance Partnerships with Key Sales Channels:**
    - Strengthen relationships with Amazon, Flipkart, and Myntra by offering exclusive deals or increasing product availability, as they are the top-performing sales channels.
- 
+
+
